@@ -28,13 +28,3 @@ Automatically organizes messy folders by sorting files into neat subfolders base
 
 ## 🧪 Test It Out
 Run `python test_demo.py` to create sample files, then organize them!
-
-## 📚 Perfect For Learning
-- File operations (os, shutil)
-- Loops and conditionals
-- Functions and code organization
-- String methods
-- Error handling
-
-## 🎓 Educational Value
-Great project for understanding how Python can automate real-world tasks!
